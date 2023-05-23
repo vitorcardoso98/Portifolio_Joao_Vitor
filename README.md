@@ -13,7 +13,8 @@ Descrição: Página Web que calcula a média aritmética de duas notas.
 Tecnologias utilizadas:
 
 <ul>
-  <li>JavaScript</li>  
+  <li>JavaScript</li>
+  <li>Google App Script</li>
 </ul>
 
 Dificuldades/erros encontrados durante o desenvolvimento do projeto:
